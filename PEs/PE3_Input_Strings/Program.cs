@@ -1,4 +1,4 @@
-﻿namespace PE3_Input_Strings
+﻿namespace PE4_Input_Strings
 {
     internal class Program
     {
