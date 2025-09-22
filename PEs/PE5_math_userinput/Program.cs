@@ -42,6 +42,7 @@
             angleDeg = double.Parse(Console.ReadLine());
             angleRad = (angleDeg * (PI / 180));
             Console.WriteLine(angleDeg + " degrees is " + angleRad + " radians.");
+            Console.WriteLine("The Sine of the angle is " );
 
             Console.WriteLine("--Distance:--");
             Console.Write("Enter Point 1's X: ");
