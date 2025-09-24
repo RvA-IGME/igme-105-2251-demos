@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE6_string_formatting", "PE6_string_formatting.csproj", "{E9B18AE6-C8E8-46CF-96C0-82137CB7A94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B18AE6-C8E8-46CF-96C0-82137CB7A94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B18AE6-C8E8-46CF-96C0-82137CB7A94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B18AE6-C8E8-46CF-96C0-82137CB7A94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B18AE6-C8E8-46CF-96C0-82137CB7A94C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA6E998-14B3-49E0-95A3-1F5F862B4E4E}
+	EndGlobalSection
+EndGlobal
